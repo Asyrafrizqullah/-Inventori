@@ -1,3 +1,3 @@
 # Inventori
-Cara Import Database : https://www.youtube.com/watch?v=lX4fHgmFCj8 <br />
-Cara Mengkoneksikan Database dengan visual studio : https://www.youtube.com/watch?v=2OpTBFKe8BM&t=27s
+Cara Import Database : https://studio.youtube.com/video/c-OnAoE4HKM
+Cara Mengkoneksikan Database dengan visual studio : https://studio.youtube.com/video/qPfvDSAkj5s
